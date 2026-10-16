@@ -1,0 +1,10 @@
+.env
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+data/saida/
+*.sqlite
+.spark-local/
+metastore_db/
+derby.log
+!architecture.png
